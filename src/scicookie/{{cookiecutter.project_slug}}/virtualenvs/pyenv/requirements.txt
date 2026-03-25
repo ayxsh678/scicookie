@@ -1,3 +1,4 @@
+griffe>=0.36.0
 {%- if cookiecutter.build_system == "poetry" %}
 poetry
 {%- elif cookiecutter.build_system == "flit" %}
